@@ -23,6 +23,11 @@
 	</dict>
 	<key>name</key>
 	<string>CSS-Handcrafted</string>
+	<key>ordering</key>
+	<array>
+		<string>D076CCF0-FFB7-4C06-A5D0-97339BD42CD0</string>
+		<string>A10EE371-8B26-4FB2-8365-F512C512ABE3</string>
+	</array>
 	<key>uuid</key>
 	<string>F3DFAAD3-32C5-4B3F-B492-09AA92580751</string>
 </dict>
