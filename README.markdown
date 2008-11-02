@@ -1,7 +1,12 @@
-#Handcrafted CSS
+#Handcrafted CSS TextMate Bundle
 
-This is the TextMate CSS bundle that we at Handcrafted use. As we improve upon it, we will continue to push our changes back into this repo so everyone can have access to the tools we use.
+##Description
 
-Some of this work was ported from or inspired by the TextMate CSS bundle from Minimal Design's [CSS TextMate bundle](http://minimaldesign.net/downloads/tools/textmate-css-bundle "minimal design &raquo; downloads &raquo; TextMate CSS bundle").
+The Handcrafted CSS TextMate Bundle is a TextMate bundle to aid in rapid CSS development.
 
----
+Some of this bundle was ported from or inspired by the TextMate CSS bundle from Minimal Design's [CSS TextMate bundle](http://minimaldesign.net/downloads/tools/textmate-css-bundle "minimal design &raquo; downloads &raquo; TextMate CSS bundle").
+
+##Installation
+
+1. cd ~/Library/Application\ Support/TextMate/Bundles/
+2. git clone git@github.com:handcrafted/handcrafted-css.git CSS-Handcrafted.tmbundle
