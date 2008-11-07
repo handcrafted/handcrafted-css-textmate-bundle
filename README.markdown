@@ -1,5 +1,9 @@
 #Handcrafted CSS TextMate Bundle
 
+##Notice
+
+This is incomplete at the moment and is not intended for production just yet. Bare with me...
+
 ##Description
 
 The Handcrafted CSS TextMate Bundle is a TextMate bundle to aid in rapid CSS development.
