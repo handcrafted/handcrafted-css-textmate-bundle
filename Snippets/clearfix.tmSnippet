@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* -----------------------------------------------------
+	P.I.E. FLOAT CLEARING
+	www.positioniseverything.net/easyclearing.html
+----------------------------------------------------- */
+.clearfix:after { clear: both; content: "."; display: block; height: 0; visibility: hidden; }
+
+/* Fixes IE/Mac */
+.clearfix { display: inline-block; }
+
+/* Hides from IE-mac \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* End hide from IE-mac */</string>
+	<key>name</key>
+	<string>clearfix</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>clearfix</string>
+	<key>uuid</key>
+	<string>E4618FA2-7F00-4E6B-A387-6EC5464DD35E</string>
+</dict>
+</plist>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* ------------------------------------------------------------
+
+    Author:    ${3:Adam Stacoviak}, ${4:adam@gethandcrafted.com}
+    Updated:   ${5:`date +%Y-%m-%d`}
+
+------------------------------------------------------------ */
+
+/* ------------------------------------------------------------
+	Base
+------------------------------------------------------------ */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+	margin: 0 0 1px 0;
+	padding: 0;
+}
+
+body {
+	font: 72.5% ${6:Arial, Helvetica, sans-serif};
+	color: #${7:252525};
+	background: #${8:fff};
+}
+
+/* ------------------------------------------------------------
+	Structure
+------------------------------------------------------------ */
+${0}
+
+/* ------------------------------------------------------------
+	Images
+------------------------------------------------------------ */
+a img {
+	border: none;
+}
+
+p img {
+	padding: 0;
+	max-width: 100%;
+}
+
+img.centered {
+	display: block;
+	margin: 15px auto;
+	padding: 0;
+}
+
+img.alignright {
+	display: inline;
+	margin: 15px 20px;
+}
+
+img.alignleft {
+	display: inline;
+	margin: 15px 20px;
+}
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+/* ------------------------------------------------------------
+	Links
+------------------------------------------------------------ */
+a {
+	color: #258;
+	text-decoration: none;
+}
+	
+a:hover {
+	color: #933;
+	text-decoration: underline;
+}
+
+a:focus, a:active {
+	outline: none;
+}
+
+/* ------------------------------------------------------------
+	Common, Misc...
+------------------------------------------------------------ */
+.hidden, hr {
+	display: none;
+}
+
+.clear {
+	clear: both;
+}
+
+/* ------------------------------------------------------------
+	P.I.E. FLOAT CLEARING
+	www.positioniseverything.net/easyclearing.html
+------------------------------------------------------------ */
+.clearfix:after {
+	content: ".";
+	clear: both;
+	height: 0;
+	visibility: hidden;
+	display: block;
+}
+
+.clearfix {
+	display: inline-block; /* Fixes IE/Mac */
+}
+
+/* Hides from IE-mac \*/
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+/* End hide from IE-mac */</string>
+	<key>name</key>
+	<string>stylesheet (start)</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>start</string>
+	<key>uuid</key>
+	<string>B3C02133-E1E7-4B0E-AAC0-14E55DBA9360</string>
+</dict>
+</plist>
