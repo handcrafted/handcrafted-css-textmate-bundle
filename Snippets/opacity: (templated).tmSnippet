@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.css, source.css.embedded.html</string>
 	<key>tabTrigger</key>
-	<string>opacity</string>
+	<string>o</string>
 	<key>uuid</key>
 	<string>97EE8482-0D90-46BA-8FE7-7376EF7CA01C</string>
 </dict>
