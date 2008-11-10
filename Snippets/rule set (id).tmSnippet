@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>#${1:ID} { $0 }
-</string>
+	<string>#${1:id} { $0 }</string>
 	<key>name</key>
 	<string>rule set (id)</string>
 	<key>scope</key>
