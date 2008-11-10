@@ -2,13 +2,15 @@
 
 ##Notice
 
-This is incomplete at the moment and is not intended for production just yet. Bare with me...
+This TextMate bundle is not quite ready for production. Please, bare with us while we finalize things and clean house.
+
+Email [hello@gethandcrafted.com](mailto:hello@gethandcrafted.com) if you have questions.
 
 ##Description
 
 The Handcrafted CSS TextMate Bundle is a TextMate bundle to aid in rapid CSS development.
 
-Some of this bundle was ported from or inspired by the TextMate CSS bundle from Minimal Design's [CSS TextMate bundle](http://minimaldesign.net/downloads/tools/textmate-css-bundle "minimal design &raquo; downloads &raquo; TextMate CSS bundle").
+Parts of this bundle was ported from or inspired by the TextMate CSS bundle from Minimal Design's [CSS TextMate bundle](http://minimaldesign.net/downloads/tools/textmate-css-bundle "minimal design &raquo; downloads &raquo; TextMate CSS bundle").
 
 ##Installation
 
