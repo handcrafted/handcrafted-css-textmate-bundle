@@ -19,4 +19,4 @@ Parts of this bundle was ported from or inspired by the TextMate CSS bundle from
 ##Installation
 
 1. cd ~/Library/Application\ Support/TextMate/Bundles/
-2. git clone git@github.com:handcrafted/handcrafted-css.git CSS-Handcrafted.tmbundle
+2. git clone git://github.com/handcrafted/handcrafted-css-textmate-bundle.git
