@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* -----------------------------------------------------
+	#${1:product_index}
+----------------------------------------------------- */
+#$1 {  }
+#$1.columns {  }
+#$1 .column { display: inline; float: left; }
+#$1 .column &gt; .inner { padding: 20px; }
+/* -- [.column.full] -- */
+#$1 .column.full {  }
+#$1 .column.full &gt; .inner {  }
+/* -- [.column.one] -- */
+#$1 .column.one { width: 300px; }
+#$1 .column.one &gt; .inner {  }
+/* -- [.column.two] -- */
+#$1 .column.two { width: 300px; }
+#$1 .column.two &gt; .inner {  }
+/* -- [.column.three] -- */
+#$1 .column.three { width: 300px; }
+#$1 .column.three &gt; .inner {  }</string>
+	<key>name</key>
+	<string>.colums</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>col</string>
+	<key>uuid</key>
+	<string>B020CB8C-1B34-4768-A2A4-C9EE0D7816AD</string>
+</dict>
+</plist>
