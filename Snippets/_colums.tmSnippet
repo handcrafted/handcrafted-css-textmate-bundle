@@ -7,7 +7,7 @@
 	#${1:product_index}
 ----------------------------------------------------- */
 #$1 {  }
-#$1.columns {  }
+#$1 .columns {  }
 #$1 .column { display: inline; float: left; }
 #$1 .column &gt; .inner { padding: 20px; }
 /* -- [.column.full] -- */
