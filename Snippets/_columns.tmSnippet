@@ -8,6 +8,10 @@
 ----------------------------------------------------- */
 #$1 {  }
 #$1 .columns {  }
+/* -- [.columns] -- */
+#$1 .columns {  }
+#$1 .columns &gt; .inner {  }
+/* -- [.column] -- */
 #$1 .column { display: inline; float: left; }
 #$1 .column &gt; .inner { padding: 20px; }
 /* -- [.column.full] -- */
@@ -23,12 +27,12 @@
 #$1 .column.three { width: 300px; }
 #$1 .column.three &gt; .inner {  }</string>
 	<key>name</key>
-	<string>.colums</string>
+	<string>.columns</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
 	<string>col</string>
 	<key>uuid</key>
-	<string>B020CB8C-1B34-4768-A2A4-C9EE0D7816AD</string>
+	<string>5BE0A232-656E-4057-B8B0-755227904D84</string>
 </dict>
 </plist>
