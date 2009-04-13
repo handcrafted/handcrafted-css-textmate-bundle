@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background: #${1:fff} url($2) no-repeat$3;$0</string>
+	<string>background: url(${1:/images/app/}$2) no-repeat$4;$0</string>
 	<key>name</key>
 	<string>background</string>
 	<key>scope</key>

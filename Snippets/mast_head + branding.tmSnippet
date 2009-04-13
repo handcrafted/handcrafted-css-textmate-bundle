@@ -3,36 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>#mast_head {
-	position: relative;
-}
-
-h1#branding {
-	position: absolute;
-	top: 0px;
-	left: 50%;
-	width: 350px;
-	height: 60px;
-	background: url(/images/) no-repeat 0 0;
-	margin: 0 0 0 -175px;
-}
-
-h1#branding a {
-	position: absolute;
-	width: 100%;
-	height: 100%;
-}
-	
-h1#branding span {
-	display: none;
-}</string>
+	<string>#mast_head { position: relative; }
+#mast_head h1#branding { position: absolute; top: 0px; left: 50%; width: 350px; height: 60px; background: url(/images/) no-repeat 0 0; margin: 0 0 0 -175px; }
+#mast_head h1#branding a { height: 100%; position: absolute; width: 100%; }
+#mast_head h1#branding span { display: none; }</string>
 	<key>name</key>
 	<string>mast_head + branding</string>
 	<key>scope</key>
-	<string>source.css, source.css.embedded.html</string>
-	<key>tabTrigger</key>
-	<string>mast head</string>
+	<string>source.css</string>
 	<key>uuid</key>
-	<string>0D76387D-1467-4C28-B6EA-693C816091DD</string>
+	<string>535185B7-E380-4FA9-A0FE-57308DB8092D</string>
 </dict>
 </plist>
