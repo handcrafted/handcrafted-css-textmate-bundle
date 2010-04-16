@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>/* -- [${1:--+--}] -- */$0</string>
+	<string>list-style: circle;$0</string>
 	<key>name</key>
-	<string>marker</string>
+	<string>list-style: circle</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>--</string>
+	<string>ls</string>
 	<key>uuid</key>
-	<string>A254D11C-7413-4E54-8787-8F1F1C1507EF</string>
+	<string>F8C7D49F-D3D3-4996-90F1-2A090AF8DEB6</string>
 </dict>
 </plist>

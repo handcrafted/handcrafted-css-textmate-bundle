@@ -7,7 +7,6 @@
 	#${1:product_index}
 ----------------------------------------------------- */
 #$1 {  }
-#$1 .columns {  }
 /* -- [.columns] -- */
 #$1 .columns {  }
 #$1 .columns &gt; .inner {  }
@@ -31,7 +30,7 @@
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>col</string>
+	<string>.c</string>
 	<key>uuid</key>
 	<string>5BE0A232-656E-4057-B8B0-755227904D84</string>
 </dict>
